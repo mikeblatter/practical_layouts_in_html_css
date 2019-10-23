@@ -18,9 +18,10 @@ Collection: https://codepen.io/collection/DyMKyj/
 ## Grid
 
 - [Simple](https://codepen.io/mikeblatter/pen/OJJpMJo)
-- [Simple MinMax Example](https://codepen.io/mikeblatter/pen/eYYvdRZ)
+- [Simple MinMax](https://codepen.io/mikeblatter/pen/eYYvdRZ)
 - [Nested Grid](https://codepen.io/mikeblatter/pen/GRRWjWX)
 - [Auto-Fill vs Auto-Fit](https://codepen.io/mikeblatter/pen/oNNZzpE)
+- [Table Header](https://codepen.io/mikeblatter/pen/abbJaqJ)
 
 # Sources
 
