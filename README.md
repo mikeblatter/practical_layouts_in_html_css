@@ -4,9 +4,9 @@ Practical Layouts in HTML + CSS, Powerpoint and HTML/CSS Examples
 
 # Code Pens
 
-Created examples in CodePen for presentation
+Examples for Presentation, links to CodePen
 
-Collection: https://codepen.io/collection/DyMKyj/
+[CodePen Collection](https://codepen.io/collection/DyMKyj/)
 
 ## Flex
 
