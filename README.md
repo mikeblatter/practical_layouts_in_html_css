@@ -12,8 +12,8 @@ Collection: https://codepen.io/collection/DyMKyj/
 
 - [Simple](https://codepen.io/mikeblatter/pen/MWWpaPM)
 - [Justify Content](https://codepen.io/mikeblatter/pen/GRRWpeQ)
-- [Vertically Center Content](https://codepen.io/mikeblatter/pen/GRRWpeQ)
 - [Direction](https://codepen.io/mikeblatter/pen/GRRWpVx)
+- [Flexibility](https://codepen.io/mikeblatter/pen/JjjWbBx)
 
 ## Grid
 
@@ -24,7 +24,8 @@ Collection: https://codepen.io/collection/DyMKyj/
 
 # Sources
 
-- https://www.w3.org/TR/css3-grid-layout/#fr-unit
+- https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/
+- https://www.w3.org/TR/css3-grid-layout/
 - https://medium.com/youstart-labs/beginners-guide-to-choose-between-css-grid-and-flexbox-783005dd2412
 - https://css-tricks.com/snippets/css/complete-guide-grid/
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
